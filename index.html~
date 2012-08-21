@@ -27,9 +27,11 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p>This project contains the images for The Weekly Font, a Little Printer
-publication by Simon Orr Studio. Have fun on this page. Nothing's
-going on here.</p>
+        <div id="editor">some text</div>
+    <script src="src/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        var editor = ace.edit("editor");
+    </script>
       </section>
     </div>
 
