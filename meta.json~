@@ -1,0 +1,8 @@
+{
+“name”: “The Weekly Font”,
+“description”: “Example publication for Little Printer”,
+“delivered_on”:”every day”
+“external_configuration”: “false”,
+“send_timezone_info”: “false”,
+“send_delivery_count”: “false”,
+}

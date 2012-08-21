@@ -1,0 +1,1 @@
+redirect "view/12"  # redirects to "//localhost:3301/articles/view/12
