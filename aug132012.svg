@@ -18,8 +18,6 @@
    inkscape:export-filename="/home/simon/Desktop/weeklyfont/sample.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="256"
      inkscape:cx="154.80085"
-     inkscape:cy="307.73939"
+     inkscape:cy="252.35442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,14 +41,16 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       orientation="1,0"
+       id="guide3858"
        position="18.384776,152.73506"
-       id="guide3858" />
+       orientation="1,0" />
     <sodipodi:guide
-       orientation="1,0"
+       id="guide3860"
        position="363.45289,179.60512"
-       id="guide3860" />
+       orientation="1,0" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -59,165 +59,168 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-552.36224)"
      id="layer1"
-     transform="translate(0,-552.36224)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <flowRoot
-       xml:space="preserve"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Museo Slab;font-style:normal;font-weight:normal;font-size:72px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Museo Slab;font-stretch:normal;font-variant:normal"
        id="flowRoot2995"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Museo Slab;font-style:normal;font-weight:normal;font-size:72px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Museo Slab;font-stretch:normal;font-variant:normal"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion2997"><rect
-           id="rect2999"
-           width="190"
-           height="234"
+           y="-110"
            x="-95"
-           y="-110" /></flowRegion><flowPara
+           height="234"
+           width="190"
+           id="rect2999" /></flowRegion><flowPara
          id="flowPara3001" /></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
-       d="m 4,561.86224 384,0"
+       transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)"
+       inkscape:connector-curvature="0"
        id="path3804"
+       d="M4.5 561.5L388.5 561.5"
+       style="stroke-linejoin:round;stroke-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-width:1.0;fill:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3808"
+       y="761.67188"
+       x="18.384769"
+       style="font-size:60.43339157px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Adelle Basic;-inkscape-font-specification:Adelle Basic Bold"
+       xml:space="preserve"><tspan
+         y="761.67188"
+         x="18.384769"
+         id="tspan3810"
+         sodipodi:role="line">Adelle Basic</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3812"
+       y="817.72284"
+       x="191.8998"
+       style="font-size:23px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Adelle Basic;-inkscape-font-specification:Adelle Basic Bold"
+       xml:space="preserve"><tspan
+         style="font-size:23px"
+         y="817.72284"
+         x="191.8998"
+         id="tspan3814"
+         sodipodi:role="line">Completely free for commercial</tspan><tspan
+         style="font-size:23px"
+         id="tspan3816"
+         y="846.47284"
+         x="191.8998"
+         sodipodi:role="line">use, this slab serif delights with</tspan><tspan
+         style="font-size:23px"
+         id="tspan3822"
+         y="875.22284"
+         x="194.21327"
+         sodipodi:role="line">its approchability. Designed for </tspan><tspan
+         style="font-size:23px"
+         id="tspan3856"
+         y="903.97284"
+         x="194.21327"
+         sodipodi:role="line">editorial work, she also shines </tspan><tspan
+         style="font-size:23px"
+         id="tspan3038"
+         y="932.72284"
+         x="194.21327"
+         sodipodi:role="line">on menus, business cards, and </tspan><tspan
+         id="tspan3852"
+         style="font-size:23px"
+         y="961.47284"
+         x="191.8998"
+         sodipodi:role="line">even your zine about cats.</tspan></text>
+    <text
+       transform="translate(0,552.36224)"
+       sodipodi:linespacing="125%"
+       id="text3838"
+       y="122.40498"
+       x="250.3158"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+       xml:space="preserve"><tspan
+         y="122.40498"
+         x="250.3158"
+         id="tspan3840"
+         sodipodi:role="line" /></text>
+    <text
+       transform="translate(0,552.36224)"
+       sodipodi:linespacing="125%"
+       id="text3842"
+       y="136.5471"
+       x="240.41631"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+       xml:space="preserve"><tspan
+         y="136.5471"
+         x="240.41631"
+         id="tspan3844"
+         sodipodi:role="line" /></text>
+    <path
+       transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)"
+       style="stroke-linejoin:round;stroke-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-width:1.0;fill:none"
+       d="M4.5 1043.5L388.500000008 1043.5"
+       id="path3852"
        inkscape:connector-curvature="0" />
     <text
-       xml:space="preserve"
-       style="font-size:60.43339157px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Adelle Basic;-inkscape-font-specification:Adelle Basic Bold"
-       x="18.384769"
-       y="761.67188"
-       id="text3808"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3810"
-         x="18.384769"
-         y="761.67188">Adelle Basic</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:23px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Adelle Basic;-inkscape-font-specification:Adelle Basic Bold"
-       x="191.8998"
-       y="817.72284"
-       id="text3812"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3814"
-         x="191.8998"
-         y="817.72284"
-         style="font-size:23px">Completely free for commercial</tspan><tspan
-         sodipodi:role="line"
-         x="191.8998"
-         y="846.47284"
-         id="tspan3816"
-         style="font-size:23px">use, this slab serif delights with</tspan><tspan
-         sodipodi:role="line"
-         x="194.21327"
-         y="875.22284"
-         id="tspan3822"
-         style="font-size:23px">its approchability. Designed for </tspan><tspan
-         sodipodi:role="line"
-         x="194.21327"
-         y="903.97284"
-         id="tspan3856"
-         style="font-size:23px">editorial work, she also shines </tspan><tspan
-         sodipodi:role="line"
-         x="194.21327"
-         y="932.72284"
-         id="tspan3038"
-         style="font-size:23px">on menus, business cards, and </tspan><tspan
-         sodipodi:role="line"
-         x="191.8998"
-         y="961.47284"
-         style="font-size:23px"
-         id="tspan3852">even your zine about cats.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
-       x="250.3158"
-       y="122.40498"
-       id="text3838"
        sodipodi:linespacing="125%"
-       transform="translate(0,552.36224)"><tspan
-         sodipodi:role="line"
-         id="tspan3840"
-         x="250.3158"
-         y="122.40498" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
-       x="240.41631"
-       y="136.5471"
-       id="text3842"
-       sodipodi:linespacing="125%"
-       transform="translate(0,552.36224)"><tspan
-         sodipodi:role="line"
-         id="tspan3844"
-         x="240.41631"
-         y="136.5471" /></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path3852"
-       d="m 4.7071068,1043.1694 384.0000032,0"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
-       x="109.80475"
-       y="995.79376"
        id="text3818"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3820"
-         x="109.80475"
+       y="995.79376"
+       x="109.80475"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+       xml:space="preserve"><tspan
+         style="font-size:20px"
          y="995.79376"
-         style="font-size:20px">Font by typetogether</tspan></text>
+         x="109.80475"
+         id="tspan3820"
+         sodipodi:role="line">Font by typetogether</tspan></text>
     <g
-       id="g7017"
-       transform="translate(378.04136,-12.899495)" />
+       transform="translate(378.04136,-12.899495)"
+       id="g7017" />
     <g
-       id="g3066"
-       transform="matrix(1.2206317,0,0,1.2206317,-28.223543,-137.74395)">
+       transform="matrix(1.220632,0.000000,0.000000,1.220632,-28.000000,-138.000000)"
+       id="g3066">
       <text
-         sodipodi:linespacing="125%"
-         id="text3026"
-         y="600.521"
-         x="38.183765"
+         xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
-         xml:space="preserve"><tspan
-           style="font-size:20px"
-           y="600.521"
-           x="38.183765"
+         x="38.183765"
+         y="600.521"
+         id="text3026"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
            id="tspan3028"
-           sodipodi:role="line">The</tspan></text>
+           x="38.183765"
+           y="600.521"
+           style="font-size:20px">The</tspan></text>
       <text
-         sodipodi:linespacing="125%"
-         id="text3030"
-         y="648.60425"
-         x="49.497475"
+         xml:space="preserve"
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
-         xml:space="preserve"><tspan
-           y="648.60425"
-           x="49.497475"
+         x="49.497475"
+         y="648.60425"
+         id="text3030"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
            id="tspan3032"
-           sodipodi:role="line">Weekly Font</tspan></text>
+           x="49.497475"
+           y="648.60425">Weekly Font</tspan></text>
     </g>
     <text
-       xml:space="preserve"
-       style="font-size:19.55900573999999992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
-       x="43.770061"
-       y="675.84125"
+       sodipodi:linespacing="125%"
        id="text3072"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3074"
-         x="43.770061"
+       y="675.84125"
+       x="43.770061"
+       style="font-size:19.55900573999999992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+       xml:space="preserve"><tspan
+         style="font-size:13.03933619999999927px;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          y="675.84125"
-         style="font-size:13.03933619999999927px;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">From Simon Orr Studio</tspan></text>
+         x="43.770061"
+         id="tspan3074"
+         sodipodi:role="line">From Simon Orr Studio</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.99329156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 45.254827,659.21088 312.547803,0"
+       transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)"
+       inkscape:connector-curvature="0"
        id="path3076"
-       inkscape:connector-curvature="0" />
+       d="M45.5 659.5L358.498557806 659.5"
+       style="stroke-linejoin:round;stroke-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.0;fill:none" />
   </g>
 </svg>
