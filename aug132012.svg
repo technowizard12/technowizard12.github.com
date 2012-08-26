@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="154.80085"
-     inkscape:cy="252.35442"
+     inkscape:zoom="1"
+     inkscape:cx="-11.015556"
+     inkscape:cy="251.81926"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -209,9 +209,9 @@
        id="text3072"
        y="675.84125"
        x="43.770061"
-       style="font-size:19.55900573999999992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+       style="font-size:19.55900573999999992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000000000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
        xml:space="preserve"><tspan
-         style="font-size:13.03933619999999927px;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="font-size:13.03933619999999927px;stroke:none;stroke-width:0.40000000000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Adelle Basic Bold;font-family:Adelle Basic;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          y="675.84125"
          x="43.770061"
          id="tspan3074"
